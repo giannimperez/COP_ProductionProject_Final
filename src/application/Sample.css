@@ -1,0 +1,13 @@
+.root {
+    -fx-background-color: silver;
+    -fx-text-fill: tan;
+}
+
+.button {
+    -fx-background-color: teal;
+}
+
+.menu-bar {
+    -fx-background-color: teal;
+    -fx-text-fill: teal;
+}
