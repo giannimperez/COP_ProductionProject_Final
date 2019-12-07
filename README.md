@@ -1,4 +1,3 @@
-# Project Title
 # COP_ProductionProject_Final
 
 
@@ -6,12 +5,6 @@ https://giannimperez.github.io/COP_ProductionProject_Final/
 
 ## Demonstration
 ![Alt text](K0bHiejnQJ.gif)
-
-
-
-
-
-
 
 
 ## Documentation
