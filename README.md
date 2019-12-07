@@ -41,11 +41,20 @@ Gianni M. Perez
 
 
 ## Acknowledgments
+* stackoverflow.com
+* Professor Vanselow (Florida Gulf Coast University)
 
 
 ## History
+* Produced in Fall 2019
 
 
 ## Key Programming Concepts Utilized
+Object Oriented Programming
+Inheritance
+Abstraction
+Implementation
+Overloading constructors
+
 
 
