@@ -24,15 +24,20 @@ Collaborators using intellij will do the following:
 
 
 ## Built With
+* Intellij
+* Scenebuilder
 
 
 ## Contributing
+* No noteable contributions other than the instruction and input of Professor Scott Vanselow.
 
 
 ## Author
+Gianni M. Perez
 
 
 ## License
+
 
 
 ## Acknowledgments
