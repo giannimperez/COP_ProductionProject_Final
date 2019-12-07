@@ -1,6 +1,6 @@
 # COP_ProductionProject_Final
 
-This JavaFX program is a simple manufacturer manager with a focus in electronics. This project was made by myself, Gianni M. Perez as part of a semester long project in FGCU's Software Engineering program in the Fall of 2019.
+This JavaFX program is a simple manufacturer manager with a focus in electronics. This project was made by myself, Gianni M. Perez as part of a semester long project in FGCU's Software Engineering program in the Fall of 2019. It allows a user to create a new product and add it to other existing products. The user can then select a number of a particular product to produce, and recieve a handy production record, with each line cooresponding to an individual item to produce.
 
 
 
