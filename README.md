@@ -12,6 +12,7 @@
 
 
 ## Diagrams
+![Alt text](ClassDiagram.PNG)
 
 
 ## Getting Started
