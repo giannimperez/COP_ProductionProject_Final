@@ -50,11 +50,11 @@ Gianni M. Perez
 
 
 ## Key Programming Concepts Utilized
-Object Oriented Programming
-Inheritance
-Abstraction
-Implementation
-Overloading constructors
+* Object Oriented Programming
+* Inheritance
+* Abstraction
+* Implementation
+* Overloading constructors
 
 
 
