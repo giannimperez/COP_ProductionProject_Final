@@ -14,7 +14,7 @@ This JavaFX program is a simple manufacturer manager with a focus in electronics
 
 
 ## Diagrams
-![Alt text](ClassDiagram.PNG)
+![Alt text](COPprodProjClassDiagram.PNG)
 
 
 ## Getting Started
