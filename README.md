@@ -37,7 +37,7 @@ Gianni M. Perez
 
 
 ## License
-
+![Alt text](License.PNG)
 
 
 ## Acknowledgments
