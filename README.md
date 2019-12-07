@@ -16,6 +16,8 @@
 
 
 ## Getting Started
+Collaborators using intellij will do the following
+1. Copy 
 
 
 ## Built With
