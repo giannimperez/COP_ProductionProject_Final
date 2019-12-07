@@ -29,7 +29,7 @@ Collaborators using intellij will do the following:
 
 
 ## Contributing
-* No noteable contributions other than the instruction and input of Professor Scott Vanselow.
+No noteable contributions other than the instruction and input of Professor Scott Vanselow (Florida Gulf Coast University)
 
 
 ## Author
