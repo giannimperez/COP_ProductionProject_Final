@@ -8,7 +8,7 @@ This JavaFX program is a simple manufacturer manager with a focus in electronics
 ## Demonstration
 ![Alt text](K0bHiejnQJ.gif)
 
-(Slight color change, per girlfriend request)
+(Slight color change on current version, per girlfriend request)
 
 
 
