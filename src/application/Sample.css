@@ -1,13 +1,13 @@
 .root {
-    -fx-background-color: silver;
+    -fx-background-color:#E8F6F3;
     -fx-text-fill: tan;
 }
 
 .button {
-    -fx-background-color: teal;
+    -fx-background-color:#16A085  ;
 }
 
 .menu-bar {
-    -fx-background-color: teal;
-    -fx-text-fill: teal;
+    -fx-background-color: silver;
+    -fx-text-fill: silver;
 }

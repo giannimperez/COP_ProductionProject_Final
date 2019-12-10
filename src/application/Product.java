@@ -53,7 +53,7 @@ public class Product implements Item {
      */
     public String toString() {
         return "Name: " + Name + "\n" + "Manufacturer: " + Manufacturer + "\n" + "Type: "
-                + itemType;
+            + itemType;
     }
 
     /**

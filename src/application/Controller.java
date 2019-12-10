@@ -164,7 +164,6 @@ public class Controller {
         prodNum = comboBox.getValue(); // needs to be int for constructor (combobox change to int populate)
 
         if (produceListView.getSelectionModel().getSelectedItem() == null) {
-            //System.out.println("YERRRRR");
             ProduceEmptyLabel1.setText("Please select a product");
         } else {
             try {
